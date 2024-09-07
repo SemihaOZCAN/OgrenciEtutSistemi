@@ -1,0 +1,9 @@
+ÖGRENCİ ETÜT LİSTESİ
+*************************************
+Geliştirdiğim Öğrenci Etüt Sistemi, eğitim kurumlarında öğrenci etüt süreçlerini kolaylaştırmak için tasarlanmış kapsamlı bir uygulamadır. 
+Bu sistem, derslerin ve öğretmenlerin yönetimi ile öğrencilerin etüt ihtiyaçlarının karşılanmasını sağlar. 
+Öğrenci ve öğretmen bilgilerini veritabanında tutar ve kullanıcıların etütleri kolayca oluşturup atamasına olanak tanır. 
+Sistem, derslerin ve öğretmenlerin güncel listelerini dinamik olarak gösterir ve etütlerin tarih ve saatlerini düzenlemeyi sağlar. 
+Ayrıca, etütlerin öğrencilere atanmasını ve bu süreçlerin güncellenmesini kullanıcı dostu bir arayüz ile yönetir. 
+Veritabanı bağlantıları ve sorgular kullanılarak bilgilerin doğru ve güncel tutulması sağlanır. 
+Bu özellikler, etütlerin düzenli bir şekilde yapılmasını ve eğitim süreçlerinin daha verimli yönetilmesini hedefler.

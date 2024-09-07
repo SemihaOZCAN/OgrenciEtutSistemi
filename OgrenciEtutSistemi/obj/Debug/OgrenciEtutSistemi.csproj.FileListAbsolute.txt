@@ -1,0 +1,10 @@
+C:\Users\Semiha\Desktop\OgrenciEtutSistemi\OgrenciEtutSistemi\bin\Debug\OgrenciEtutSistemi.exe.config
+C:\Users\Semiha\Desktop\OgrenciEtutSistemi\OgrenciEtutSistemi\bin\Debug\OgrenciEtutSistemi.exe
+C:\Users\Semiha\Desktop\OgrenciEtutSistemi\OgrenciEtutSistemi\bin\Debug\OgrenciEtutSistemi.pdb
+C:\Users\Semiha\Desktop\OgrenciEtutSistemi\OgrenciEtutSistemi\obj\Debug\OgrenciEtutSistemi.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\OgrenciEtutSistemi\OgrenciEtutSistemi\obj\Debug\OgrenciEtutSistemi.Form1.resources
+C:\Users\Semiha\Desktop\OgrenciEtutSistemi\OgrenciEtutSistemi\obj\Debug\OgrenciEtutSistemi.Properties.Resources.resources
+C:\Users\Semiha\Desktop\OgrenciEtutSistemi\OgrenciEtutSistemi\obj\Debug\OgrenciEtutSistemi.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\OgrenciEtutSistemi\OgrenciEtutSistemi\obj\Debug\OgrenciEtutSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\OgrenciEtutSistemi\OgrenciEtutSistemi\obj\Debug\OgrenciEtutSistemi.exe
+C:\Users\Semiha\Desktop\OgrenciEtutSistemi\OgrenciEtutSistemi\obj\Debug\OgrenciEtutSistemi.pdb
